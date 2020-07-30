@@ -1,0 +1,8 @@
+.option {
+    color: $off-white;
+    border-bottom: 1px solid lighten($light-blue, 10%);
+    display: flex;
+    justify-content: space-between;
+    padding: $s-size $l-size;
+    word-break: break-all;
+}
